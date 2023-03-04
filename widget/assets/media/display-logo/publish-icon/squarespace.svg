@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <filter id="Rectangle_2802" x="0" y="0" width="77" height="77" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7501" data-name="Group 7501" transform="translate(4.813 3.651)">
+    <g transform="matrix(1, 0, 0, 1, -4.81, -3.65)" filter="url(#Rectangle_2802)">
+      <rect id="Rectangle_2802-2" data-name="Rectangle 2802" width="68" height="68" rx="8" transform="translate(4.5 3.5)" fill="#fff"/>
+    </g>
+    <path id="Fill-1" d="M185.527,70.882,198.912,57.5a4.828,4.828,0,0,1,6.818,0l1.041,1.044,2.087-2.084-1.044-1.044a7.776,7.776,0,0,0-10.99,0L183.44,68.8Z" transform="translate(-163.977 -35.421)" fill-rule="evenodd"/>
+    <path id="Fill-3" d="M187.443,61.031l-2.087-2.087L171.97,72.317a4.819,4.819,0,1,1-6.818-6.8L176.7,53.964l-2.087-2.084L163.068,63.426a7.771,7.771,0,0,0,10.99,10.99Z" transform="translate(-148.027 -34.535)" fill-rule="evenodd"/>
+    <path id="Fill-5" d="M237.935,85.522a7.782,7.782,0,0,0-10.987,0L213.56,98.91l2.087,2.07,13.382-13.367a4.822,4.822,0,0,1,6.818,6.818L224.3,105.98l2.087,2.087,11.552-11.555a7.779,7.779,0,0,0,0-10.99" transform="translate(-185.192 -56.631)" fill-rule="evenodd"/>
+    <path id="Fill-7" d="M218.414,105.88l-13.388,13.388a4.828,4.828,0,0,1-6.815,0l-1.044-1.044-2.087,2.087,1.044,1.041a7.776,7.776,0,0,0,10.99,0l13.37-13.385Z" transform="translate(-172.178 -72.568)" fill-rule="evenodd"/>
+  </g>
+</svg>
