@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/widget/static/css/main.8bed8de8.css",
-    "main.js": "/widget/static/js/main.d94d2109.js",
+    "main.css": "/widget/static/css/main.0d596118.css",
+    "main.js": "/widget/static/js/main.f1250527.js",
+    "pdfmake.js": "/widget/static/js/pdfmake.de9ab592.chunk.js",
+    "canvg.js": "/widget/static/js/canvg.3d7150ab.chunk.js",
+    "xlsx.js": "/widget/static/js/xlsx.192507fe.chunk.js",
     "static/js/379.e45644c5.chunk.js": "/widget/static/js/379.e45644c5.chunk.js",
     "static/js/54.369b94a5.chunk.js": "/widget/static/js/54.369b94a5.chunk.js",
     "static/js/482.40e95f31.chunk.js": "/widget/static/js/482.40e95f31.chunk.js",
@@ -9,16 +12,16 @@
     "static/js/545.3c99a08b.chunk.js": "/widget/static/js/545.3c99a08b.chunk.js",
     "static/js/311.1bc8026a.chunk.js": "/widget/static/js/311.1bc8026a.chunk.js",
     "static/js/997.39c3def4.chunk.js": "/widget/static/js/997.39c3def4.chunk.js",
-    "pdfmake.js": "/widget/static/js/pdfmake.de9ab592.chunk.js",
-    "canvg.js": "/widget/static/js/canvg.3d7150ab.chunk.js",
-    "xlsx.js": "/widget/static/js/xlsx.192507fe.chunk.js",
     "static/js/765.506641a8.chunk.js": "/widget/static/js/765.506641a8.chunk.js",
     "static/media/flags@2x.png": "/widget/static/media/flags@2x.140042eba8c90ae1cede.png",
     "static/media/flags.png": "/widget/static/media/flags.ae53191452bb217f0fa6.png",
     "index.html": "/widget/index.html",
     "static/media/caret-right.svg": "/widget/static/media/caret-right.2a6ab8a03e92147c75d1.svg",
-    "main.8bed8de8.css.map": "/widget/static/css/main.8bed8de8.css.map",
-    "main.d94d2109.js.map": "/widget/static/js/main.d94d2109.js.map",
+    "main.0d596118.css.map": "/widget/static/css/main.0d596118.css.map",
+    "main.f1250527.js.map": "/widget/static/js/main.f1250527.js.map",
+    "pdfmake.de9ab592.chunk.js.map": "/widget/static/js/pdfmake.de9ab592.chunk.js.map",
+    "canvg.3d7150ab.chunk.js.map": "/widget/static/js/canvg.3d7150ab.chunk.js.map",
+    "xlsx.192507fe.chunk.js.map": "/widget/static/js/xlsx.192507fe.chunk.js.map",
     "379.e45644c5.chunk.js.map": "/widget/static/js/379.e45644c5.chunk.js.map",
     "54.369b94a5.chunk.js.map": "/widget/static/js/54.369b94a5.chunk.js.map",
     "482.40e95f31.chunk.js.map": "/widget/static/js/482.40e95f31.chunk.js.map",
@@ -26,13 +29,10 @@
     "545.3c99a08b.chunk.js.map": "/widget/static/js/545.3c99a08b.chunk.js.map",
     "311.1bc8026a.chunk.js.map": "/widget/static/js/311.1bc8026a.chunk.js.map",
     "997.39c3def4.chunk.js.map": "/widget/static/js/997.39c3def4.chunk.js.map",
-    "pdfmake.de9ab592.chunk.js.map": "/widget/static/js/pdfmake.de9ab592.chunk.js.map",
-    "canvg.3d7150ab.chunk.js.map": "/widget/static/js/canvg.3d7150ab.chunk.js.map",
-    "xlsx.192507fe.chunk.js.map": "/widget/static/js/xlsx.192507fe.chunk.js.map",
     "765.506641a8.chunk.js.map": "/widget/static/js/765.506641a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bed8de8.css",
-    "static/js/main.d94d2109.js"
+    "static/css/main.0d596118.css",
+    "static/js/main.f1250527.js"
   ]
 }
