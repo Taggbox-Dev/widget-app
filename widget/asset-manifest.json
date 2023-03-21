@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/widget/static/css/main.0d596118.css",
-    "main.js": "/widget/static/js/main.f1250527.js",
+    "main.js": "/widget/static/js/main.4d129e79.js",
     "pdfmake.js": "/widget/static/js/pdfmake.de9ab592.chunk.js",
     "canvg.js": "/widget/static/js/canvg.3d7150ab.chunk.js",
     "xlsx.js": "/widget/static/js/xlsx.192507fe.chunk.js",
@@ -18,7 +18,7 @@
     "index.html": "/widget/index.html",
     "static/media/caret-right.svg": "/widget/static/media/caret-right.2a6ab8a03e92147c75d1.svg",
     "main.0d596118.css.map": "/widget/static/css/main.0d596118.css.map",
-    "main.f1250527.js.map": "/widget/static/js/main.f1250527.js.map",
+    "main.4d129e79.js.map": "/widget/static/js/main.4d129e79.js.map",
     "pdfmake.de9ab592.chunk.js.map": "/widget/static/js/pdfmake.de9ab592.chunk.js.map",
     "canvg.3d7150ab.chunk.js.map": "/widget/static/js/canvg.3d7150ab.chunk.js.map",
     "xlsx.192507fe.chunk.js.map": "/widget/static/js/xlsx.192507fe.chunk.js.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.0d596118.css",
-    "static/js/main.f1250527.js"
+    "static/js/main.4d129e79.js"
   ]
 }
