@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="225" viewBox="0 0 441 225">
+  <g id="Group_7299" data-name="Group 7299" transform="translate(-1319 -273)">
+    <path id="Rectangle_2773" data-name="Rectangle 2773" d="M8,0H433a8,8,0,0,1,8,8V225a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(1319 273)" fill="#8ab6d6"/>
+    <g id="Group_7293" data-name="Group 7293" transform="translate(-11 -35)">
+      <g id="Group_7229" data-name="Group 7229" transform="translate(1530.604 406.283)">
+        <g id="_8-Email" data-name="8-Email" transform="translate(0 0)">
+          <path id="Path_7023" data-name="Path 7023" d="M37.855,7H2.524A2.524,2.524,0,0,0,0,9.524V33.078A2.524,2.524,0,0,0,2.524,35.6H37.855a2.524,2.524,0,0,0,2.524-2.524V9.524A2.524,2.524,0,0,0,37.855,7Zm-.538,1.682L20.189,21.923,3.062,8.682ZM1.682,32.733V9.742L14.646,19.761Zm1.186,1.186L15.983,20.8l3.685,2.852a.841.841,0,0,0,1.026,0L24.4,20.8,37.51,33.919ZM38.7,32.733,25.733,19.761,38.7,9.742Z" transform="translate(0 -7)" fill="#fff" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Rectangle_2679" data-name="Rectangle 2679" transform="translate(1504 385)" fill="none" stroke="#fff" stroke-width="3">
+        <rect width="93" height="71" rx="8" stroke="none"/>
+        <rect x="1.5" y="1.5" width="90" height="68" rx="6.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
