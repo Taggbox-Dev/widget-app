@@ -1,11 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f317d438.css",
-<<<<<<< HEAD
-    "main.js": "/static/js/main.7f8215da.js",
-=======
     "main.js": "/static/js/main.3e0cf858.js",
->>>>>>> 059095f45053ebab060869e0de89f329e6603e67
     "pdfmake.js": "/static/js/pdfmake.de9ab592.chunk.js",
     "canvg.js": "/static/js/canvg.e426304e.chunk.js",
     "xlsx.js": "/static/js/xlsx.192507fe.chunk.js",
